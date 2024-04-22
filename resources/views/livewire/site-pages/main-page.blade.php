@@ -18,7 +18,7 @@
             virtual hoy
             mismo!</p>
         <div class="flex justify-center">
-            <a href="#"
+            <a href="/asistente"
                 class="text-white bg-gradient-to-r from-cyan-500 to-blue-500 hover:bg-gradient-to-bl focus:ring-4 focus:outline-none focus:ring-cyan-300 dark:focus:ring-cyan-800 font-medium rounded-lg text-base px-5 py-2.5 text-center me-2 mb-2 uppercase">Comenzar</a>
         </div>
     </section>

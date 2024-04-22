@@ -1,9 +1,11 @@
 <?php
 
 use App\Livewire\SitePages\MainPage;
+use App\Livewire\SitePages\PublicAssistant;
 use Illuminate\Support\Facades\Route;
 
 Route::get('/', MainPage::class);
+Route::get('/asistente', PublicAssistant::class);
 
 Route::middleware([
     'auth:sanctum',
